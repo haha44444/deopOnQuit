@@ -1,0 +1,6 @@
+name: deopOnQuit
+version: '${version}'
+main: top.haha44444.deoponquit.DeopOnQuit
+api-version: '1.20'
+author: haha44444
+description: deop when quit.
